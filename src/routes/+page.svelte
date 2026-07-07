@@ -238,7 +238,7 @@
 			<p>© 2026 rate my human</p>
 
 			<p class="text-center normal-case">
-				made by
+				made with ❤️ by
 				<a href="https://github.com/bestg" class="underline hover:text-[#1f1b16] transition-colors"
 					>bestg</a
 				>
