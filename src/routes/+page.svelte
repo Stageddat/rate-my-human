@@ -56,7 +56,7 @@
 </script>
 
 <svelte:head>
-	<title>rate my human 😼</title>
+	<title>rate my human</title>
 </svelte:head>
 
 <main class="min-h-screen bg-[#f0ebe0] flex flex-col">
