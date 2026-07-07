@@ -107,7 +107,7 @@
 						<img
 							src={previewUrl}
 							alt="submitted room"
-							class="w-full h-64 object-cover border-2 border-[#1f1b16] shadow-[6px_6px_0_0_rgba(31,27,22,0.15)]"
+							class="max-w-full max-h-[60vh] object-contain border-2 border-[#1f1b16] shadow-[6px_6px_0_0_rgba(31,27,22,0.15)]"
 						/>
 						<p class="font-mono text-[11px] text-[#1f1b16]/50 truncate max-w-full">{fileName}</p>
 						{#if !form?.success && !loading}
