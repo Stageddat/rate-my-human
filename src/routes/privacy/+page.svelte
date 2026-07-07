@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { resolve } from '$app/paths';
+</script>
+
 <svelte:head>
 	<title>privacy policy - rate my human</title>
 </svelte:head>
@@ -44,7 +48,9 @@
 
 		<p class="mt-8 text-sm text-[#6b5d4d]">last updated: july 2026</p>
 
-		<a href="/" class="inline-block mt-6 text-sm underline text-[#6b4c2a] hover:text-[#1f1b16]"
+		<a
+			href={resolve('/')}
+			class="inline-block mt-6 text-sm underline text-[#6b4c2a] hover:text-[#1f1b16]"
 			>&larr; back to home</a
 		>
 	</div>
