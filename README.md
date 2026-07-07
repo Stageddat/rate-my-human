@@ -14,7 +14,7 @@ Upload a photo of any room and receive an inspection report including:
 
 **Live demo**: [ratemyhuman.stageddat.dev](https://ratemyhuman.stageddat.dev/)
 
-
+https://github.com/user-attachments/assets/13992be7-3dad-4eef-ab2f-4ec7a2555c18
 ## Tech Stack
 
 - **Framework**: [SvelteKit](https://svelte.dev/docs/kit).
